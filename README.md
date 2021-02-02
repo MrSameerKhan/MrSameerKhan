@@ -20,6 +20,7 @@
 [![PyTorch](https://img.shields.io/pypi/v/PyTorch?label=PyTorch&logo=PyTorch)](https://github.com/MrSameerKhan)
 [![Keras](https://img.shields.io/pypi/v/Keras?label=Keras&logo=Keras)](https://github.com/MrSameerKhan)
 [![Scikit-Learn](https://img.shields.io/pypi/v/Scikit-Learn?label=Scikit-Learn&logo=Scikit-Learn)](https://github.com/MrSameerKhan)
+[![OpenCV](https://img.shields.io/pypi/v/opencv-python?label=OpenCV&logo=OpenCV)](https://github.com/MrSameerKhan)
 
 
 ### Data Science Projects
