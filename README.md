@@ -20,6 +20,8 @@
 ### Data Science Projects
 
 [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-000?)](https://github.com/MrSameerKhan)
+[![Face Recognition](https://img.shields.io/badge/Face%20-Recognition-Black)]
+[![Smart AI Surveillance](https://img.shields.io/badge/Smart%20AI-Surveillance-Black)]
 
 
 ### Cybersecurity Projects
