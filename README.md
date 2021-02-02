@@ -14,7 +14,10 @@
 
 ### Frameworks / Libraries
 
-[![Tensorflow](https://img.shields.io/pypi/v/Tensorflow?label=Tensorflow&logo=Tensorflow&bg_color=0)](https://github.com/MrSameerKhan)
+[![Tensorflow](https://img.shields.io/pypi/v/Tensorflow?label=Tensorflow&logo=Tensorflow)](https://github.com/MrSameerKhan)
+[![PyTorch](https://img.shields.io/pypi/v/PyTorch?label=PyTorch&logo=PyTorch)](https://github.com/MrSameerKhan)
+[![Keras](https://img.shields.io/pypi/v/Keras?label=Keras&logo=Keras)](https://github.com/MrSameerKhan)
+[![Scikit-Learn](https://img.shields.io/pypi/v/Scikit-Learn?label=Scikit-Learn&logo=Scikit-Learn)](https://github.com/MrSameerKhan)
 
 
 ### Data Science Projects
