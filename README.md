@@ -22,6 +22,7 @@
 [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-000?)](https://github.com/MrSameerKhan)
 [![Face Recognition](https://img.shields.io/badge/Face%20-Recognition-Black)](https://github.com/MrSameerKhan)
 [![Smart AI Surveillance](https://img.shields.io/badge/Smart%20AI-Surveillance-Black)](https://github.com/MrSameerKhan)
+[![Optical Character Recognition](https://img.shields.io/badge/Optical%20Character-Recognition-Black)](https://github.com/MrSameerKhan)
 
 
 ### Cybersecurity Projects
