@@ -14,7 +14,7 @@
 
 ### Frameworks / Libraries
 
-[![Tensorflow](https://img.shields.io/pypi/v/Tensorflow?label=Tensorflow&logo=Tensorflow)](https://github.com/MrSameerKhan)
+[![Tensorflow](https://img.shields.io/pypi/v/Tensorflow?label=Tensorflow&logo=Tensorflow&background-color=white)](https://github.com/MrSameerKhan)
 
 
 ### Data Science Projects
