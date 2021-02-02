@@ -5,13 +5,16 @@
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/MrSameerKhan)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/MrSameerKhan)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/MrSameerKhan)
-[![Tensorflow](https://img.shields.io/pypi/v/Tensorflow?label=Tensorflow&logo=Tensorflow)](https://github.com/MrSameerKhan)
+
 
 ### Technologies
 
 [![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)](https://github.com/MrSameerKhan)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://github.com/MrSameerKhan)
 
+### Frameworks / Libraries
+
+[![Tensorflow](https://img.shields.io/pypi/v/Tensorflow?label=Tensorflow&logo=Tensorflow)](https://github.com/MrSameerKhan)
 
 
 ### Full Stack Projects
