@@ -1,7 +1,7 @@
 <!-- [![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/MrSameerKhan)If you want the template for my gif, email me! -->
 
 ### Sameer Khan
-[![Header](https://github.com/MrSameerKhan/MrSameerKhan/blob/main/Sameer_GIF.mp4)](https://github.com/MrSameerKhan)
+[![Header](https://github.com/MrSameerKhan/MrSameerKhan/blob/main/Sameer_GIF.gif)](https://github.com/MrSameerKhan)
 
 ### Languages
 
