@@ -21,14 +21,14 @@
 <code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
 <code><img height="30" src="https://huggingface.co/favicon.ico"></code>
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-<code><img height="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 [![OpenCV](https://img.shields.io/pypi/v/opencv-python?label=OpenCV&logo=OpenCV)](https://github.com/MrSameerKhan)
 
-
-### Technologies
-
-[![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)](https://github.com/MrSameerKhan)
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://github.com/MrSameerKhan)
+#### Cloud Platforms
+<code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
+<code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
+<code><img height="30" src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873107.png"></code>
 
 ### Data Science Projects
 
