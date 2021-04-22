@@ -8,6 +8,10 @@
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/MrSameerKhan)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/MrSameerKhan)
 
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/MrSameerKhan)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/MrSameerKhan)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/MrSameerKhan)
+
 
 ### Technologies
 
