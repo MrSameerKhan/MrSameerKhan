@@ -21,7 +21,7 @@
 <code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
 <code><img height="30" src="https://huggingface.co/favicon.ico"></code>
 <code><img height="30" src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"></code>
-[![OpenCV](https://img.shields.io/pypi/v/opencv-python?label=OpenCV&logo=OpenCV)](https://github.com/MrSameerKhan)
+### [![OpenCV](https://img.shields.io/pypi/v/opencv-python?label=OpenCV&logo=OpenCV)](https://github.com/MrSameerKhan)
 
 #### Cloud Platforms
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
